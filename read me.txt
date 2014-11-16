@@ -1,0 +1,7 @@
+account:club0048
+password:cb004800
+
+Ftp://student.ncyu.edu.tw
+http://student.ncyu.edu.tw
+
+*期待將來能有能人將 LogIn 功能完成。

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>水上活動社</title>
+	<meta charset="UTF-8"></meta>
+	<meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"></link>
+	<link type="text/css" rel="stylesheet" href="css/Style.css">
+	<link href="img/icon.png" type="/image/x-icon" rel="Shortcut Icon"></link>
+</head>
+<body>
+	<div class="container">
+		<div class="panel panel-warning">
+			<div class="panel-body">
+				<span class="glyphicon glyphicon-warning-sign"></span> 
+			</div>
+		</div>
+	</div>
+</body>

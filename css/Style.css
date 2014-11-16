@@ -1,0 +1,17 @@
+body {
+	/*background-image: url('/home/michael/Documents/web project/SwimmingClub/img/aqua.jpg');*/
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+	background-image: url('http://www.redmangrove.com/blog/wp-content/uploads/2013/02/clear-water-isabela-island-bay.jpg');
+
+}
+.container {
+	background-color: rgba(255,255,255,0.6);
+}
+.content {
+	background-color:#b2b2b2;
+	border-radius:20px;
+	margin-bottom: 10px;
+}
