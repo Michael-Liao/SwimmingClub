@@ -4,7 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 
-	background-image: url('http://www.redmangrove.com/blog/wp-content/uploads/2013/02/clear-water-isabela-island-bay.jpg');
+	background-image: url('http://thumbs.dreamstime.com/x/water-texture-79337.jpg');
 
 }
 .container {
@@ -14,4 +14,36 @@ body {
 	background-color:#b2b2b2;
 	border-radius:20px;
 	margin-bottom: 10px;
+}
+#login {
+	width: 70%;
+	margin: 50px auto;
+	border-radius: 20px;
+	padding: 20px;
+}
+.jumbotron {
+	padding-bottom: 250px;
+}
+#image {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    cursor: pointer;
+    background: #000;
+    color: #fff;
+}
+#image img {
+    visibility: hidden;
+}
+#kcfinder_div {
+    display: none;
+    position: absolute;
+    width: 670px;
+    height: 400px;
+    background: #e0dfde;
+    border: 2px solid #3687e2;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    padding: 1px;
 }
